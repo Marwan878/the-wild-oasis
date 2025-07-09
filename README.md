@@ -85,6 +85,28 @@ A modern hotel management application built with React, designed to help hotel s
 - **React Hot Toast** - Toast notifications
 - **Date-fns** - Date formatting and manipulation
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](./public/screenshots/dashboard.png)
+
+### Bookings
+
+![Bookings](./public/screenshots/bookings.png)
+
+### Cabins
+
+![Cabins](./public/screenshots/cabins.png)
+
+### Add admins
+
+![Add admins](./public/screenshots/add-admins-form.png)
+
+### Night mode showcase
+
+![Night mode showcase](./public/screenshots/night-mode.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
