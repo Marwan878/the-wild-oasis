@@ -7,7 +7,6 @@ export default function DarkModeToggle() {
   const { isDarkMode, toggleDarkMode } = useDarkMode();
 
   useEffect(() => {
-    console.log("hello");
     if (isDarkMode) {
       document.documentElement.classList.add("dark-mode");
     } else {
